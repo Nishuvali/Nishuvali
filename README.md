@@ -1,6 +1,6 @@
 <div align="center">
   <a>
-  <img  src="imgbg/snake.svg"
+  <img  src="snake.svg"
        alt="snake" /></a>
 </div>
 
