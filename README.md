@@ -1,4 +1,4 @@
-##    > Nishwanth Here ✌️
+##    > Sai Nishwanth Here ✌️
 
 <div align="center">
   <a>
@@ -7,7 +7,7 @@
 </div>
 
   <h2 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Sai+Nishwanth+Valiveti!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=UI+Developer+🚀;+Coder+👨‍💻!;Enthusiastic+✨" />
 </h2>
 <h3 align="center">Passionate B.Tech student with strong front-end web development skills and hands-on experience in Full Stack Development, Machine Learning, and AI. Proficient in cloud technologies and dedicated to continuous learning, currently expanding my expertise in Python, AI, and Machine Learning. Ready to contribute to innovative and collaborative projects through a blend of technical skills and leadership experience.</h3>
 
